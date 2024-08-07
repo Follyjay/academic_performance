@@ -95,7 +95,8 @@ academic-performance/
 │   |
 |   └── app.py
 |
-└── README.md```
+└── README.md
+```
 
     - data/: Directory containing the cleaned data.
     - model/: Directory containing the trained model.
