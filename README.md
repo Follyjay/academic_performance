@@ -71,7 +71,7 @@ This project aims to predict student academic performance based on various facto
 ## Project Structure
 
 ```plaintext
-student-performance-prediction/
+academic-performance/
 │
 ├── data/
 │   └── data.csv
@@ -95,23 +95,24 @@ student-performance-prediction/
 │   |
 |   └── app.py
 |
-└── README.md
+└── README.md```
 
-`data/`: Directory containing the cleaned data.
-`model/`: Directory containing the trained model.
-`static/`: Directory for static files like CSS and JavaScript.
-`templates/`: Directory for HTML templates.
-`app.py`: Main Flask application file.
-`modeling.py`: Script for data processing, cleaning, and model training.
+    - data/: Directory containing the cleaned data.
+    - model/: Directory containing the trained model.
+    - static/: Directory for static files like CSS and JavaScript.
+    - templates/: Directory for HTML templates.
+    - app.py: Main Flask application file.
+    - modeling.py: Script for data processing, cleaning, and model training.
 
 ## Acknowledgements
-Kaggle for providing the dataset.
-Flask documentation and tutorials for guidance on web development.
-Scikit-learn documentation for machine learning model training and evaluation.
-Contributing
+- Kaggle for providing the dataset.
+- Flask documentation and tutorials for guidance on web development.
+- Scikit-learn documentation for machine learning model training and evaluation.
+
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or additions.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## License
+This `README.md` file provides a comprehensive overview of the project, including installation instructions, usage details, and acknowledgements. Adjust the content as needed to fit the specifics of your project, such as updating the repository URL and any additional information relevant to your project.
 
 
