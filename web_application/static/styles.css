@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(3, 3, 26);
+    padding: 0;
+    margin: 0;
+}
+
+#row-body{
+    color: #FFF;
+}
+
+.content{
+    border: #421d61 0.5px solid;
+    box-shadow: #FFF 0.2 ease;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 0;
+}
+
+.title{
+    background-color: #FFF;
+    color: #000;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#predictionForm{
+    padding: 5px;
+}
+
+.modal-header{
+    background-color: floralwhite;
+    color: #421d61;
+}
+
+.modal-header button{
+    color: #421d61;
+}
+
+.modal-body{
+    background-color: #421d61;
+    color: #FFF;
+}
+
+#predictionForm input, select{
+    border: 1px #421d61 solid;
+}
