@@ -46,8 +46,8 @@ This project aims to predict student academic performance based on various facto
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/student-performance-prediction.git
-    cd student-performance-prediction
+    git clone https://github.com/Follyjay/academic-performance.git
+    cd academic-performance
     ```
 
 2. Install the required Python packages:
@@ -97,17 +97,21 @@ student-performance-prediction/
 |
 └── README.md
 
-  - data/: Directory containing the cleaned data.
-  - model/: Directory containing the trained model.
-  - static/: Directory for static files like CSS and JavaScript.
-  - templates/: Directory for HTML templates.
-  - app.py: Main Flask application file.
-  - modelling.py: Script for data processing, cleaning, and model training.
+`data/`: Directory containing the cleaned data.
+`model/`: Directory containing the trained model.
+`static/`: Directory for static files like CSS and JavaScript.
+`templates/`: Directory for HTML templates.
+`app.py`: Main Flask application file.
+`modeling.py`: Script for data processing, cleaning, and model training.
 
 ## Acknowledgements
-- Kaggle for providing the dataset.
-- Flask documentation and tutorials for guidance on web development.
-- Scikit-learn documentation for machine learning model training and evaluation.
-
-## Contributing
+Kaggle for providing the dataset.
+Flask documentation and tutorials for guidance on web development.
+Scikit-learn documentation for machine learning model training and evaluation.
+Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or additions.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
